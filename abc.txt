@@ -1,2 +1,2 @@
-"hrllo ! this is a text tot push on hehe "
-"hrllo ! this is a text tot push on github "
+"hello ! this is a text tot push on hehe "
+"hello ! this is a text tot push on github "
